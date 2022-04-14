@@ -31,7 +31,7 @@ PyDispatcher==2.0.5
 pyOpenSSL==20.0.1
 queuelib==1.6.1
 requests==2.26.0
-Scrapy==2.5.1
+Scrapy==2.6.0
 service-identity==21.1.0
 six==1.16.0
 soupsieve==2.2.1
