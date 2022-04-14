@@ -37,7 +37,7 @@ six==1.16.0
 soupsieve==2.2.1
 toml==0.10.2
 tqdm==4.62.1
-Twisted==21.7.0
+Twisted==22.1
 twisted-iocpsupport==1.0.1
 typing-extensions==3.10.0.0
 urllib3==1.26.6
